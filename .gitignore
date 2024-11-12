@@ -1,0 +1,9 @@
+
+.env
+/Include
+/Lib
+/Logs
+/Scripta
+/share
+.pyvenv.cfg
+/MP_Data
