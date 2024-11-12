@@ -1,4 +1,4 @@
-Proyecto Traductor de Lenguaje de Señas Mexicano (LSM)
+Proyecto Traductor de Lenguaje de Señas Mexicano
 Este proyecto es un traductor de lenguaje de señas mexicano (LSM) a texto, utilizando modelos de inteligencia artificial y Mediapipe para la detección de landmarks y reconocimiento de gestos en tiempo real.
 
 Requisitos
